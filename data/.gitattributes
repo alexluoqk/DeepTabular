@@ -1,0 +1,2 @@
+covtype.csv filter=lfs diff=lfs merge=lfs -text
+OnlineNewsPopularity/OnlineNewsPopularity.csv filter=lfs diff=lfs merge=lfs -text
